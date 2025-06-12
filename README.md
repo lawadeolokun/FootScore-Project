@@ -25,6 +25,10 @@ Passwoord is 'root'
   
   ```bash
   CREATE DATABASE FootScore;
+  DROP DATABASE IF EXISTS FootScore;
+  CREATE DATABASE FootScore;
+  USE FootScore;
+  SOURCE FootScore.sql;
   EXIT;
 
   mysql -u root -p FootScore < FootScore.sql
