@@ -13,7 +13,7 @@ A simple PHP web app for viewing football fixtures and buying match tickets.
 - MySQL
 - HTML / CSS
 
-  ## 1. Clone the repository
+  ## Clone the repository
   ```bash
   git clone https://github.com/lawadeolokunE/FootScore-Project.git
   cd FootScoreProject
